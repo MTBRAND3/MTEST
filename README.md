@@ -1,0 +1,2 @@
+# MTEST
+SCRIPT FOR STOCK MARKET binary options
